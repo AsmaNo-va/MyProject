@@ -1,2 +1,6 @@
 # MyProject
-My University project as i done from the begaining
+My University project as i done from the beginning
+
+
+
+
